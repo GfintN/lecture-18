@@ -1,0 +1,4 @@
+CREATE SCHEMA lecture18
+CREATE DATABASE e-book
+    WITH
+    ENCODING = 'UTF8';
